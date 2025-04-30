@@ -1,0 +1,48 @@
+baseURL = "https://ateliercezar.fr/"
+languageCode = "fr-fr"
+title = "Atelier Cézar"
+theme = "PaperMod"
+defaultContentLanguage = "fr"
+paginate = 10
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = false
+  ShowPostNavLinks = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[[menu.main]]
+  name = "Accueil"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Pratique"
+  url = "/pratique/"
+  weight = 2
+
+[[menu.main]]
+  name = "Ateliers"
+  url = "/ateliers/"
+  weight = 3
+
+[[menu.main]]
+  name = "Notes"
+  url = "/notes/"
+  weight = 4
+
+[[menu.main]]
+  name = "À propos"
+  url = "/apropos/"
+  weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 6
