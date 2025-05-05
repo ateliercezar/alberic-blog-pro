@@ -1,0 +1,9 @@
+# Enforce consistent LF endings across all systems
+* text=auto eol=lf
+
+# Treat shell and config files strictly
+*.sh text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.md text eol=lf
+*.html text eol=lf
