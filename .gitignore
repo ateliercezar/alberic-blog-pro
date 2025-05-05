@@ -6,3 +6,9 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# fichiers Hugo générés ou internes
+public/
+.hugo_build.lock
+.obsidian/
+tools/old_diagnose-hugo.sh
