@@ -6,10 +6,7 @@ weight: 10
 draft: true
 summary: ""
 status: "draft"
-menu:
-  main:
-    weight: 10
 aliases: []
 showToc: false
-hideMeta: false
+hideMeta: true
 ---

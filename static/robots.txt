@@ -1,0 +1,7 @@
+# robots.txt — Atelier Cezar
+# https://ateliercezar.fr
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ateliercezar.fr/sitemap.xml
