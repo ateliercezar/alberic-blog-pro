@@ -3,7 +3,8 @@ languageCode = "fr-fr"
 title = "Atelier Cézar"
 theme = "PaperMod"
 defaultContentLanguage = "fr"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [params]
   defaultTheme = "auto"
@@ -25,24 +26,24 @@ paginate = 10
 [[menu.main]]
   name = "Pratique"
   url = "/pratique/"
-  weight = 2
+  weight = 10
 
 [[menu.main]]
   name = "Ateliers"
   url = "/ateliers/"
-  weight = 3
-
-[[menu.main]]
-  name = "Notes"
-  url = "/notes/"
-  weight = 4
+  weight = 20
 
 [[menu.main]]
   name = "À propos"
   url = "/apropos/"
-  weight = 5
+  weight = 30
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 6
+  weight = 40
+
+[[menu.main]]
+  name = "Notes"
+  url = "/notes/"
+  weight = 50
