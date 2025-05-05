@@ -6,7 +6,7 @@ weight: 1
 draft: true
 summary: ""
 status: "draft"
-aliases: ["/", "/home"]
+aliases: []
 showToc: false
 hideMeta: true
 ---
