@@ -1,12 +1,12 @@
 ---
-title: "Contact"
+title: Contact
 description: "Informations pour entrer en lien : adresse, modalités, confidentialité."
-type: "page"
+type: page
 weight: 40
-draft: true
+draft: false
 summary: ""
-status: "draft"
-aliases: ["/contactez-moi/", "/lien/"]
+status: published
+aliases: 
 showToc: false
 hideMeta: true
 ---

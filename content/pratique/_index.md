@@ -6,7 +6,7 @@ weight: 10
 draft: false
 summary: ""
 status: "published"
-aliases: ["/therapie/", "/accompagnement/"]
+aliases: []
 showToc: false
 hideMeta: true
 ---
